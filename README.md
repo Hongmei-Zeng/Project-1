@@ -7,7 +7,7 @@
 * Yacub Bholat  
 
 ## Background and Expected Results
-Austin has seen explosive growth over the last several years. We will seek to answer the following questions.
+Austin has seen explosive growth over the last several years. This project aims to seek to answer the following questions.
 * How has the *population* grown?  
   * Population has visibily gone up, so we expect to see a healthy upward trend in population over time.  
 * How have *housing* prices changed?  
