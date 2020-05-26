@@ -1,4 +1,4 @@
-# Project 1  Austin Housing
+# Austin Housing
 ## Data analytics and visualization project  
 ### Team Members
 * Hongmei Zeng  
